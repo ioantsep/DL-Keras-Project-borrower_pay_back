@@ -1,7 +1,6 @@
-# DL-Keras-Project-borrower_pay_back
+# Predict wether or nor a borrower will pay back their loan 
 
-Deep Learning - Keras 
 
-Given historical data on loans we are trying to build a model that can predict wether or nor a borrower will pay back their loan 
+Given historical data on loans we are trying to build a model that can predict wether or nor a borrower will pay back their loan using Tensorflow
 
 ** LendingClub DataSet obtained from Kaggle: https://www.kaggle.com/wordsforthewise/lending-club
